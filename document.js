@@ -1,3 +1,3 @@
 function git() {
-    let challenge = "My first repo";
+    let challenge = "My updated repo";
 }
